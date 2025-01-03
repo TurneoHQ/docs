@@ -31,6 +31,22 @@
       "url": "api-reference"
     }
   ],
+
+  "versions": [
+  {
+    "name": "English",
+    "locale": "en",
+  },
+  {
+    "name": "French",
+    "locale": "fr",
+  },
+  {
+    "name": "Spanish",
+    "locale": "es"
+  }
+],
+
   "anchors": [
     {
       "name": "Documentation",
@@ -83,6 +99,7 @@
         "api-reference/endpoint/delete"
       ]
     }
+    
   ],
   "footerSocials": {
     "x": "https://x.com/mintlify",
