@@ -32,20 +32,6 @@
     }
   ],
 
-  "versions": [
-  {
-    "name": "English",
-    "locale": "en",
-  },
-  {
-    "name": "French",
-    "locale": "fr",
-  },
-  {
-    "name": "Spanish",
-    "locale": "es"
-  }
-],
 
   "anchors": [
     {
@@ -64,6 +50,7 @@
       "url": "https://mintlify.com/blog"
     }
   ],
+  
   "navigation": [
     {
       "group": "Get Started",
@@ -98,8 +85,23 @@
         "api-reference/endpoint/create",
         "api-reference/endpoint/delete"
       ]
-    }
-    
+    },
+
+"versions": [
+  {
+    "name": "English",
+    "locale": "en",
+  },
+  {
+    "name": "French",
+    "locale": "fr",
+  },
+  {
+    "name": "Spanish",
+    "locale": "es"
+  }
+],
+ 
   ],
   "footerSocials": {
     "x": "https://x.com/mintlify",
