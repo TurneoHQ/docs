@@ -85,24 +85,22 @@
         "api-reference/endpoint/create",
         "api-reference/endpoint/delete"
       ]
-    },
-
+    }
+  ],
   "versions": [
   {
     "name": "English",
-    "locale": "en",
+    "locale": "en"
   },
   {
     "name": "French",
-    "locale": "fr",
+    "locale": "fr"
   },
   {
     "name": "Spanish",
     "locale": "es"
   }
-]
- 
-  ],
+],
   "footerSocials": {
     "x": "https://x.com/mintlify",
     "github": "https://github.com/mintlify",
